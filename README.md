@@ -1,6 +1,6 @@
 ####Задача
 
-![Задача](TaskPng.png)
+![Задача](https://github.com/KarinaShapkarina/TestJob/blob/main/TaskPng.PNG)
 
 #####Алгоритм решения:
 1. Через консоль производится присвоение числа элементов в массиве;
